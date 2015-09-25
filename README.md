@@ -1,2 +1,2 @@
-# Aurelia-Bootstrap
-Aurelia-Bootstrap is Aurelia Plugin providing access to Twitter Bootstrap controls
+# aurelia-bootstrap
+aurelia-bootstrap is Aurelia Plugin providing access to Twitter Bootstrap controls
